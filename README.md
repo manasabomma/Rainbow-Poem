@@ -40,3 +40,4 @@ add a line to the README.md
 yo my boy.
 
 its great to be a part of it
+This is really useful and easy to learn
